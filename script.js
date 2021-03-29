@@ -5,6 +5,6 @@ console.log("hello world by Nika");
 
 
 alert("hello");
-alert("gamarjoba")
+alert("gamarjoba");
 
 
